@@ -1,0 +1,1221 @@
+@media (max-width: 1919px) and (min-width: 1200px) {
+  .container {
+    width: 1120px;
+  }
+  .button {
+    font-size: 16px;
+    line-height: 19px;
+    height: 51px;
+  }
+  .second-heading {
+    font-size: 28px;
+    line-height: 41px;
+  }
+  .paragraph {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .header {
+    height: 70px;
+  }
+  .logo {
+    width: 70px;
+    height: 70px;
+  }
+  .logo__img {
+    width: 36px;
+    height: 28px;
+  }
+  .side-bar {
+    width: 70px;
+  }
+  .side-bar__list {
+    height: 140px;
+    margin-top: 199px;
+  }
+  .side-bar__list-item {
+    width: 17px;
+    height: 17px;
+    background-size: cover;
+  }
+  .button-up {
+    width: 42px;
+    height: 42px;
+    margin: 70px 0px;
+  }
+  .header-nav__list {
+    width: 680px;
+    margin-left: 74px;
+  }
+  .user-profile {
+    width: 42px;
+    height: 42px;
+    margin-right: 68px;
+    background-size: cover;
+  }
+  .wild-park {
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-left: 144px;
+  }
+  .wild-park__info {
+    width: 497px;
+    margin-top: 40px;
+  }
+  .wild-park__img {
+    width: 400px;
+    height: 456px;
+    object-fit: cover;
+  }
+  .wild-park__second-heading {
+    font-size: 56px;
+    line-height: 70px;
+    margin-top: 30px;
+    margin-bottom: 55px;
+  }
+  .wild-park__second-heading::after {
+    width: 11px;
+    height: 11px;
+    bottom: 52px;
+    left: 96px;
+  }
+  .wild-park__button-choose {
+    width: 209px;
+    margin-right: 40px;
+  }
+  .wild-park__button-watch {
+    width: 219px;
+  }
+  .how-zoo-works {
+    margin: 200px 0px 100px 144px;
+  }
+  .how-zoo-works__img {
+    width: 401px;
+    height: 585px;
+  }
+  .how-zoo-works__info {
+    width: 543px;
+    margin-top: 53px;
+  }
+  .how-zoo-works__button-try {
+    width: 210px;
+    margin-top: 50px;
+    height: 59px;
+  }
+  .famous-pets {
+    margin: 94px 0px 94px 144px;
+  }
+  .famous-pets__info {
+    margin: 125px 0px 140px 0px;
+  }
+  .famous-pets__first-heading {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .famous-pets__second-heading {
+    width: 215px;
+    margin: 50px 0px 30px 0px;
+  }
+  .famous-pets__buttons {
+    width: 132px;
+  }
+  .famous-pets__button-left,
+  .famous-pets__button-right {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .famous-pets__list {
+    height: 546px;
+    width: 723px;
+    overflow: hidden;
+  }
+  .pet-card {
+    width: 258px;
+    height: 258px;
+    margin: 0px 30px 30px 0px;
+  }
+  .pet-card__heading {
+    bottom: 0;
+  }
+  .pet-card__info {
+    border-width: 1px;
+    width: 59px;
+    height: 59px;
+    bottom: 65px;
+  }
+  .pet-card__info-text {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .pet-card__info {
+    font-size: 35px;
+  }
+  .pet-card:hover .pet-card__info {
+    border-width: 1px;
+    width: 184px;
+    height: 184px;
+    bottom: 50px;
+  }
+  .pet-card__info-text {
+    width: 146px;
+  }
+  .pay-and-feed {
+    margin-left: 144px;
+    margin-bottom: 129px;
+    align-items: center;
+  }
+  .pay-and-feed__first-heading {
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 0px;
+    margin-bottom: 80px;
+    align-self: flex-start;
+  }
+  .pay-and-feed__second-heading {
+    width: 342px;
+  }
+  .pay-end-feed__first-arrow,
+  .pay-end-feed__second-arrow {
+    display: none;
+  }
+  .pay-and-feed__block-visa {
+    margin-left: 0px;
+  }
+  .pay-and-feed__block-meal {
+    align-self: auto;
+    margin-top: 55px;
+  }
+  .pay-and-feed__block-delivery {
+    align-self: auto;
+    margin-top: 80px;
+  }
+  .pay-and-feed__img {
+    width: 242px;
+    height: 242px;
+  }
+  .pay-and-feed__info {
+    width: 428px;
+  }
+  .pay-and-feed__block {
+    margin-left: 86px;
+    width: 712px;
+  }
+  .pay-and-feed__info-visa {
+    margin-top: 53px;
+  }
+  .pay-and-feed__info-delivery {
+    margin-top: 67px;
+  }
+  .pay-and-feed__info-meal {
+    margin-top: 35px;
+  }
+  .testimonials {
+    margin: 108px 0px 80px 144px;
+  }
+  .testimonials-info__first-heading {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .testimonials-info__second-heading {
+    margin-top: 40px;
+  }
+  .testimonials-info {
+    width: 392px;
+  }
+  .testimonials-reviews {
+    width: 543px;
+  }
+  .testimonials-reviews__list {
+    overflow: hidden;
+    height: 280px;
+  }
+  .review {
+    padding: 30px;
+    width: 454px;
+    height: 235px;
+  }
+  .review__header-user-name {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .review__text {
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 25px;
+  }
+  .testimonials-reviews__buttons {
+    margin-top: 10px;
+    width: 132px;
+  }
+  .testimonials-reviews__button-left,
+  .testimonials-reviews__button-right {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .testimonials-info__feedback-button {
+    width: 286px;
+    height: 61px;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .zoogeography {
+    margin: 100px 0px 100px 144px;
+  }
+  .zoogeography__first-heading {
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 0;
+  }
+  .map-animal-card {
+    width: 292px;
+  }
+  .map-animal-card__img {
+    height: 192px;
+  }
+  .map-animal-card__watch-now {
+    margin: 41px 0px 40px 0px;
+  }
+  .world-map {
+    width: 675px;
+    height: 389px;
+    background-size: cover;
+    margin-top: 84px;
+  }
+  .map-animal-card__text {
+    margin: 0 14px;
+  }
+  .world-map__animal {
+    width: 37px;
+    height: 37px;
+  }
+  .world-map__animal-eagle-icon,
+  .world-map__animal-alligator-icon,
+  .world-map__animal-gorilla-icon {
+    width: 21px;
+    height: 25px;
+    background-size: cover;
+  }
+  .world-map__animal-panda-icon {
+    width: 23px;
+    height: 18px;
+    background-size: cover;
+  }
+  .world-map__animal-eagle {
+    left: 78px;
+    top: 103px;
+  }
+  .world-map__animal-alligator {
+    left: 150px;
+    top: 122px;
+  }
+  .world-map__animal-panda {
+    left: 492px;
+    top: 112px;
+  }
+  .world-map__animal-gorilla {
+    left: 309px;
+    top: 172px;
+  }
+  .footer {
+    margin: 100px 0px 0px 0px;
+  }
+  .onine-zoo-logo {
+    width: 119px;
+    height: 91px;
+  }
+  .rsschool-yem-logo {
+    width: 128px;
+    height: 176px;
+    background: url(../online-zoo/assets/icons/yem&rsschool_logo2.png);
+  }
+  .footer__logos .logo__link {
+    display: inline-block;
+    margin-bottom: 97px;
+  }
+  .footer-nav {
+    width: 133px;
+    margin: 0px 296px 0px 160px;
+  }
+  .donate-and-sm {
+    width: 339px;
+  }
+  .support__paragraph {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .support__donate-button {
+    width: 339px;
+    height: 61px;
+  }
+  .social-media {
+    margin-right: -46px;
+    margin-top: 95px;
+  }
+  .social-media__link {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .footer__copyright {
+    margin: 104px 0 23px;
+    padding-top: 25px;
+  }
+  .review-popup__form{
+    margin-top: 34px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 640px) {
+  .container {
+    width: 640px;
+  }
+  .button {
+    font-size: 16px;
+    line-height: 19px;
+    height: 51px;
+  }
+  .second-heading {
+    font-size: 26px;
+    line-height: 38px;
+  }
+  .paragraph {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .header {
+    position: fixed;
+    width: 640px;
+    z-index: 100;
+    border: none;
+    height: 88px;
+    margin-top: 0;
+  }
+  .logo {
+    width: 88px;
+    height: 88px;
+    border: none;
+  }
+  .header-nav__burger {
+    display: block;
+    top: 50%;
+    right: 20px;
+    transform: translate(0, -50%);
+  }
+  .header-nav__list {
+    display: none;
+  }
+  .user-profile {
+    display: none;
+  }
+  .side-bar {
+    display: none;
+  }
+  .wild-park {
+    margin: 148px 20px 60px;
+  }
+  .wild-park__info {
+    width: 316px;
+    margin-top: 8px;
+  }
+  .wild-park__second-heading {
+    font-size: 42px;
+    line-height: 53px;
+    margin: 35px 0 40px;
+  }
+  .wild-park__second-heading::after {
+    width: 9px;
+    height: 9px;
+    bottom: 37px;
+    left: 229px;
+  }
+  .wild-park__button-choose {
+    width: 209px;
+  }
+  .wild-park__button-watch {
+    display: none;
+  }
+  .wild-park__img {
+    width: 263px;
+    height: 326px;
+    object-fit: cover;
+  }
+  .how-zoo-works {
+    margin: 60px 45px 80px;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  .how-zoo-works__info {
+    display: flex;
+    width: 550px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+  }
+  .how-zoo-works__second-heading {
+    margin: 45px 0 30px;
+    text-align: center;
+  }
+  .how-zoo-works__paragraph {
+    text-align: center;
+  }
+  .how-zoo-works__button-try-link {
+    margin-top: 40px;
+  }
+  .how-zoo-works__button-try {
+    width: 211px;
+    height: 59px;
+  }
+  .how-zoo-works__img {
+    width: 390px;
+    height: 386px;
+    object-fit: cover;
+    margin-top: 60px;
+  }
+
+  .famous-pets {
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .famous-pets__info {
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    align-items: center;
+    margin: 60px 0px 70px;
+  }
+  .famous-pets__second-heading {
+    width: 245px;
+    text-align: center;
+    margin: 35px 0px 30px;
+  }
+  .famous-pets__list {
+    width: 600px;
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .pet-card {
+    width: 180px;
+    height: 180px;
+    margin: 0 30px 30px 0;
+  }
+  .pet-card__info {
+    width: 41px;
+    height: 41px;
+    border-width: 1px;
+    font-size: 27px;
+    bottom: 35px;
+  }
+  .pet-card__heading {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .pet-card:hover .pet-card__info {
+    border-width: 1px;
+    width: 129px;
+    height: 129px;
+    bottom: 30px;
+  }
+  .pet-card__heading {
+    margin-bottom: 0;
+  }
+  .pet-card__info-text {
+    font-size: 14px;
+    line-height: 22px;
+    width: 102px;
+  }
+  .pet-card:nth-child(3n) {
+    margin-right: 0;
+  }
+  .famous-pets__buttons {
+    width: 132px;
+  }
+  .famous-pets__button-right,
+  .famous-pets__button-left {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .pay-and-feed {
+    margin: 80px 0px 100px;
+    align-items: center;
+  }
+  .pay-end-feed__first-arrow,
+  .pay-end-feed__second-arrow {
+    display: none;
+  }
+
+  .pay-and-feed__info {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .pay-and-feed__first-heading {
+    margin: 0 0 30px;
+  }
+  .pay-and-feed__second-heading {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .pay-and-feed__paragraph {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0;
+    margin-top: 25px;
+  }
+  .pay-and-feed__img {
+    width: 180px;
+    height: 180px;
+  }
+  .pay-and-feed__block {
+    width: 428px;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+    align-self: auto;
+  }
+  .pay-and-feed__block-visa {
+    margin-top: 27px;
+  }
+  .pay-and-feed__block-delivery {
+    margin-top: 62px;
+  }
+  .pay-and-feed__block-meal {
+    margin-top: 76px;
+  }
+  .pay-and-feed__info-meal {
+    margin-top: 49px;
+  }
+  .pay-and-feed__block-meal .pay-and-feed__img {
+    width: 210px;
+    height: 210px;
+  }
+  .pay-and-feed__info-meal .pay-and-feed__second-heading {
+    width: 270px;
+    margin: 0 auto;
+  }
+  .testimonials {
+    margin: 80px 0 100px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .testimonials-info {
+    width: 392px;
+    text-align: center;
+  }
+  .testimonials-info__second-heading {
+    font-size: 28px;
+    line-height: 41px;
+    margin: 35px 0;
+  }
+  .testimonials-info__paragraph {
+    margin-bottom: 50px;
+  }
+  .testimonials-info__feedback-button {
+    height: 61px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .testimonials-reviews {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    width: 454px;
+  }
+  .testimonials-reviews__list {
+    display: block;
+    overflow: hidden;
+    height: 235px;
+    width: 454px;
+  }
+  .review {
+    height: 235px;
+    width: 454px;
+    margin: 0;
+    padding: 30px;
+  }
+  .review__header-user-name {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .review__text {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .testimonials-reviews__buttons {
+    width: 132px;
+    margin-top: 30px;
+  }
+  .testimonials-reviews__button-left,
+  .testimonials-reviews__button-right {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .zoogeography {
+    margin: 80px 0 16px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .zoogeography__first-heading {
+    display: none;
+  }
+  .map-animal-card {
+    width: 250px;
+    position: relative;
+    z-index: 10;
+  }
+  .map-animal-card__name {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .map-animal-card__text {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0px 20px;
+  }
+  .map-animal-card__watch-now {
+    font-size: 16px;
+    line-height: 19px;
+    margin: 40px 0px 30px 0px;
+  }
+  .map-animal-card__img {
+    width: 250px;
+  }
+  .world-map {
+    width: 600px;
+    height: 346px;
+    background-size: cover;
+    bottom: 63px;
+  }
+  .world-map__animal {
+    width: 37px;
+    height: 37px;
+  }
+  .world-map__animal-eagle-icon,
+  .world-map__animal-alligator-icon,
+  .world-map__animal-gorilla-icon {
+    width: 21px;
+    height: 25px;
+    background-size: cover;
+  }
+  .world-map__animal-panda-icon {
+    width: 23px;
+    height: 18px;
+    background-size: cover;
+  }
+  .world-map__animal-eagle {
+    left: 65px;
+    top: 84px;
+  }
+  .world-map__animal-alligator {
+    left: 134px;
+    top: 105px;
+  }
+  .world-map__animal-panda {
+    left: 443px;
+    top: 103px;
+  }
+  .world-map__animal-gorilla {
+    left: 273px;
+    top: 151px;
+  }
+  .footer {
+    margin: 80px 20px 20px;
+  }
+  .footer__info {
+    flex-wrap: wrap;
+  }
+  .footer__logos {
+    display: flex;
+    width: 100%;
+    align-items: baseline;
+  }
+  .footer__logos .logo__link {
+    margin: 0 115px 0 0;
+  }
+  .onine-zoo-logo {
+    width: 95px;
+    height: 74px;
+    object-fit: cover;
+  }
+  .rsschool-yem-logo {
+    width: 264px;
+    height: 53px;
+    background-size: cover;
+  }
+  .footer-nav {
+    width: 133px;
+    margin: 60px 77px 0 0;
+  }
+  .footer-nav__list-item {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .donate-and-sm {
+    margin-top: 60px;
+  }
+  .support__first-heading {
+    margin-bottom: 27px;
+  }
+  .support__donate-button {
+    width: 318px;
+    height: 59px;
+  }
+  .social-media {
+    margin-top: 50px;
+  }
+  .social-media__link {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 8px;
+    margin: 26px 0px 40px;
+  }
+}
+@media (max-width: 639px) and (min-width: 320px) {
+  .container {
+    width: 320px;
+  }
+  .button {
+    font-size: 14px;
+    line-height: 17px;
+    height: 49px;
+  }
+  .first-heading {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .second-heading {
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .paragraph {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .header {
+    position: fixed;
+    width: 320px;
+    z-index: 100;
+    border: none;
+    height: 59px;
+    margin-top: 0;
+  }
+  .logo {
+    width: 59px;
+    height: 59px;
+    border: none;
+  }
+  .logo__img {
+    width: 39px;
+    height: 28px;
+  }
+  .header-nav__burger {
+    width: 35px;
+    height: 22px;
+    background-size: cover;
+    display: block;
+    top: 12px;
+    right: 9px;
+  }
+  .header-nav__list {
+    display: none;
+  }
+  .user-profile {
+    display: none;
+  }
+  .side-bar {
+    display: none;
+  }
+  .wild-park {
+    margin: 121px 10px 62px;
+  }
+  .wild-park__info {
+    width: 299px;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .wild-park__first-heading {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .wild-park__second-heading {
+    font-size: 42px;
+    line-height: 53px;
+    margin: 35px 0 40px;
+  }
+  .wild-park__second-heading::after {
+    width: 9px;
+    height: 9px;
+    bottom: 38px;
+    left: 232px;
+  }
+  .wild-park__button-choose {
+    width: 198px;
+    margin-right: 0;
+  }
+  .wild-park__button-watch {
+    display: none;
+  }
+  .wild-park__img {
+    display: none;
+  }
+  .how-zoo-works {
+    margin: 0px 45px 59px;
+    align-items: center;
+    flex-direction: column;
+  }
+  .how-zoo-works__info {
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+  }
+  .how-zoo-works__second-heading {
+    margin: 35px 0 30px;
+    text-align: center;
+  }
+  .how-zoo-works__paragraph {
+    text-align: center;
+  }
+  .how-zoo-works__button-try-link {
+    margin-top: 40px;
+  }
+  .how-zoo-works__button-try {
+    width: 215px;
+    height: 62px;
+  }
+  .how-zoo-works__img {
+    width: 297px;
+    height: 293px;
+    object-fit: cover;
+  }
+
+  .famous-pets {
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+  }
+  .famous-pets__info {
+    display: flex;
+    width: 189px;
+    flex-direction: column;
+    align-items: center;
+    margin: 60px 0px 50px;
+  }
+  .famous-pets__second-heading {
+    text-align: center;
+    margin: 35px 0px 25px;
+    width: 180px;
+  }
+  .famous-pets__list {
+    width: 600px;
+    height: auto;
+    margin-bottom: 40px;
+    margin-left: 160px;
+  }
+  .pet-card {
+    width: 140px;
+    height: 140px;
+    margin: 0 20px 20px 0;
+  }
+  .pet-card__info {
+    width: 31px;
+    height: 31px;
+    border-width: 1px;
+    font-size: 18px;
+    bottom: 36px;
+    padding: 0;
+  }
+  .pet-card__heading {
+    font-size: 14px;
+    line-height: 17px;
+    bottom: 4px;
+  }
+  .pet-card:hover .pet-card__info {
+    border-width: 1px;
+    width: 100px;
+    height: 100px;
+    bottom: 30px;
+  }
+  .pet-card__heading {
+    margin-bottom: 0;
+  }
+  .pet-card__info-text {
+    font-size: 12px;
+    line-height: 19px;
+    width: 100px;
+  }
+  .pet-card:nth-child(3n) {
+    margin-right: 0;
+  }
+  .famous-pets__buttons {
+    width: 132px;
+  }
+  .famous-pets__button-right,
+  .famous-pets__button-left {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .pay-and-feed {
+    margin: 60px 0px 41px;
+    align-items: center;
+  }
+  .pay-end-feed__first-arrow,
+  .pay-end-feed__second-arrow {
+    display: none;
+  }
+
+  .pay-and-feed__info {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .pay-and-feed__first-heading {
+    margin: 0;
+  }
+  .pay-and-feed__second-heading {
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .pay-and-feed__paragraph {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 20px 0;
+  }
+  .pay-and-feed__img {
+    width: 180px;
+    height: 180px;
+  }
+  .pay-and-feed__block {
+    width: 300px;
+    flex-direction: column;
+    margin: 30px 0 0;
+    align-items: center;
+    align-self: auto;
+  }
+  .pay-and-feed__block-delivery {
+    margin-top: 13px;
+  }
+  .pay-and-feed__block-meal .pay-and-feed__img {
+    width: 242px;
+    height: 242px;
+  }
+  .pay-and-feed__info-meal .pay-and-feed__second-heading {
+    width: 270px;
+    margin: 0 auto;
+  }
+  .pay-and-feed__info-meal {
+    margin-top: 11px;
+  }
+  .testimonials {
+    margin: 60px 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .testimonials-info {
+    width: 300px;
+    text-align: center;
+  }
+  .testimonials-info__second-heading {
+    font-size: 20px;
+    line-height: 29px;
+    margin: 30px 0 20px;
+  }
+  .testimonials-info__paragraph {
+    margin-bottom: 44px;
+  }
+  .testimonials-reviews__see-more {
+    height: 40px;
+  }
+  .testimonials-info__feedback-button {
+    width: 258px;
+    height: 57px;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .testimonials-reviews {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    width: 300px;
+  }
+  .testimonials-reviews__list {
+    display: block;
+    overflow: hidden;
+    height: 300px;
+    width: 300px;
+  }
+  .review {
+    height: 300px;
+    width: 300px;
+    margin: 0;
+    padding: 30px;
+  }
+  .review__header-user-name {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .review__text {
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 20px;
+  }
+  .testimonials-reviews__buttons {
+    width: 132px;
+    margin-top: 30px;
+  }
+  .testimonials-reviews__button-left,
+  .testimonials-reviews__button-right {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .zoogeography {
+    margin: 78px 0 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .zoogeography__first-heading {
+    display: none;
+  }
+  .map-animal-card {
+    width: 250px;
+    position: relative;
+    top: -20px;
+    z-index: 10;
+  }
+  .map-animal-card__name {
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .map-animal-card__text {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0px 20px;
+  }
+  .map-animal-card__watch-now {
+    font-size: 16px;
+    line-height: 19px;
+    margin: 40px 0px 30px 0px;
+  }
+  .map-animal-card__img {
+    width: 250px;
+  }
+  .world-map {
+    display: none;
+  }
+  .world-map__animal {
+    display: none;
+    width: 37px;
+    height: 37px;
+  }
+  .animal-menu {
+    display: flex;
+    position: relative;
+    align-items: center;
+    background: #fcfcfc;
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    margin: 20px 0 60px;
+  }
+  .animal-menu__list-item {
+    width: 47px;
+    height: 47px;
+  }
+
+  .animal-menu__list-scroll {
+    width: 20px;
+    height: 20px;
+  }
+  .footer {
+    margin: 60px 10px 0px;
+  }
+  .footer__info {
+    flex-wrap: wrap;
+  }
+  .footer__logos {
+    flex-direction: column;
+    width: 85px;
+  }
+  .footer__logos .logo__link {
+    margin: 0;
+  }
+  .onine-zoo-logo {
+    width: 60px;
+    height: 47px;
+    object-fit: cover;
+  }
+  .rsschool-yem-logo {
+    margin-top: 98px;
+    width: 84px;
+    height: 132px;
+    background: url(../online-zoo/assets/icons/yem&rsschool_logo3.png);
+  }
+  .footer-nav {
+    width: 109px;
+    margin: 0 0 0 76px;
+  }
+  .footer-nav__first-heading {
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .footer-nav__list-item {
+    margin-bottom: 22px;
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .donate-and-sm {
+    width: 300px;
+    margin-top: 35px;
+    text-align: center;
+  }
+  .support {
+    width: 300px;
+  }
+  .support__first-heading {
+    margin-bottom: 33px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .support__paragraph {
+    margin-bottom: 33px;
+  }
+  .support__donate-button {
+    width: 300px;
+    height: 57px;
+  }
+  .social-media {
+    margin-top: 36px;
+  }
+  .social-media__link {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .footer__copyright {
+    margin: 36px 0 0;
+    padding: 16px 0px;
+    font-size: 11px;
+    line-height: 16px;
+    flex-direction: column-reverse;
+  }
+  .footer__copyright p {
+    margin: 4px;
+  }
+}

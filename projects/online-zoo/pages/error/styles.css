@@ -1,0 +1,73 @@
+.header-nav__list {
+  margin-left: 94px;
+}
+.logo {
+  border-left: none;
+}
+.error {
+  width: 873px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto 80px;
+}
+.error__heading-wrapper {
+  display: flex;
+  align-items: flex-end;
+  height: 181px;
+  background: url(../../../online-zoo/assets/icons/404.png) no-repeat;
+  background-position: center center;
+}
+.error__heading {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 52px;
+  text-align: center;
+  color: #080029;
+}
+.error__paragraph {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 37px;
+  text-align: center;
+  color: #080029;
+}
+.error__button-link{
+  margin-top: 70px;
+}
+.error__button {
+  width: 309px;
+  height: 61px;
+  background: #0f0049;
+  color: #fcfcfc;
+  border: none;
+}
+.error__button:hover {
+  background: #080029;
+}
+.error__button:active {
+  background: #150068;
+}
+.cute-pandas-video {
+  width: 900px;
+  margin: 0px auto;
+}
+.go-to-support {
+  width: 425px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #747474;
+  margin: 60px auto 80px;
+}
+.go-to-support__link {
+  color: #3888ff;
+}
+.go-to-support__link:hover{
+  text-decoration: underline;
+}

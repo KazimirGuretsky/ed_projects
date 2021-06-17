@@ -1,0 +1,190 @@
+@media (max-width: 1919px) and (min-width: 1200px) {
+  .wrldmap {
+    width: 1200px;
+    height: 700px;
+    background-size: 116%;
+    background-position: 0% 46%;
+  }
+  .side-bar__list {
+    height: 416px;
+    margin: 0px;
+  }
+  .side-bar__list-item {
+    width: 45px;
+    height: 45px;
+    background-size: auto;
+    background-size: 60%;
+  }
+  .side-bar__list-scroll {
+    width: 66px;
+    height: 66px;
+  }
+  .world-map__animal {
+    width: 53px;
+    height: 53px;
+  }
+  .world-map__animal-eagle {
+    left: -37px;
+    top: 4px;
+  }
+  .world-map__animal-alligator {
+    left: 183px;
+    top: 162px;
+  }
+  .world-map__animal-gorilla {
+    left: 631px;
+    top: 296px;
+  }
+  .world-map__animal-panda {
+    left: 1068px;
+    top: 188px;
+  }
+  .world-map__animal-eagle-icon,
+  .world-map__animal-alligator-icon,
+  .world-map__animal-gorilla-icon {
+    width: 31px;
+    height: 35px;
+  }
+  .world-map__animal-panda-icon {
+    width: 33px;
+    height: 26px;
+  }
+  .map-animal-card {
+    left: 320px;
+    top: 109px;
+  }
+  .map-animal-card__name {
+    margin: 20px 0px 15px;
+  }
+  .map-animal-card__watch-now {
+    margin: 19px 0 40px;
+  }
+  .map-animal-card__watch-now {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .map-animal-card__img {
+    width: 292px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 640px) {
+  .header {
+    background: none;
+  }
+  .logo {
+    background: none;
+  }
+  .wrldmap {
+    width: 640px;
+    height: 800px;
+    background-size: 218%;
+    background-position: 45% 53%;
+  }
+  .side-bar {
+    display: none;
+  }
+  .animal-menu {
+    display: flex;
+    transform: translate(50%, 100px);
+  }
+  .animal-menu__list-item{
+    width: 47px;
+    height: 47px;
+  }
+  .animal-menu__list-scroll{
+    width: 85px;
+  }
+  .map-animal-card {
+    left: 64px;
+    top: 239px;
+  }
+  .map-animal-card__watch-now {
+    margin: 19px 0px 30px 0px;
+}
+  .world-map__animal {
+    width: 48px;
+    height: 48px;
+  }
+  .world-map__animal-eagle {
+    left: -370px;
+    top: 4px;
+  }
+  .world-map__animal-alligator {
+    left: -183px;
+    top: -167px;
+  }
+  .world-map__animal-gorilla {
+    left: 339px;
+    top: 402px;
+
+  }
+  .world-map__animal-panda {
+    left: -1065px;
+    top: -188px;
+  }
+}
+@media (max-width: 639px) and (min-width: 320px) {
+  .header {
+    background: none;
+  }
+  .logo {
+    background: none;
+  }
+  .wrldmap {
+    width: 320px;
+    height: 480px;
+    background-size: 264%;
+    background-position: 40% 56%;
+  }
+  .side-bar {
+    display: none;
+  }
+  .header-nav__burger {
+    top: 18px;
+}
+  .map-animal-card{
+    display: none;
+  }
+  .animal-menu {
+    display: flex;
+    transform: translate(50%, 80px);
+  }
+  .animal-menu__list-scroll{
+    width: 35px;
+  }
+  .world-map__animal {
+    width: 30px;
+    height: 30px;
+}
+  .world-map__animal-gorilla {
+    left: 200px;
+    top: 229px;
+    display: flex;
+  }
+  .world-map__animal-gorilla-icon {
+    width: 15px;
+    height: 18px;
+    background-size: cover;
+  }
+  .animal-menu {
+    display: flex;
+    position: relative;
+    align-items: center;
+    background: #FCFCFC;
+    width: 300px;
+    height: 75px;
+    border-radius: 20px;
+    top:385px;
+    right: -50%;
+    transform: translate(-50%, 0);
+    margin: 0;
+  }
+  .animal-menu__list-item{
+    width: 41px;
+    height: 41px;
+  }
+  .animal-menu__list{
+    width: 250px;
+  }
+}

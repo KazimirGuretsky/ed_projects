@@ -1,0 +1,37 @@
+.wrldmap {
+  background: url(../../../online-zoo/assets/images/map.png) no-repeat;
+  background-position: 40% 53%;
+  position: absolute;
+  width: 1920px;
+  height: 860px;
+  background-size: 114%;
+  left: 50%;
+  top: 0;
+  transform: translate(-50%, 0);
+}
+.header-wrapper{
+  background: none;
+}
+
+.world-map__animal-alligator {
+  left: 197px;
+  top: 110px;
+}
+.world-map__animal-panda {
+  left: 1567px;
+  top: 136px;
+}
+.world-map__animal-gorilla {
+  left: 896px;
+  top: 337px;
+}
+.map-animal-card {
+  position: absolute;
+  left: 523px;
+  top: 123px;
+}
+.world-map__animal-eagle {
+  left: -120px;
+  top: 15px;
+}
+

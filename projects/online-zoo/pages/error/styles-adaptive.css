@@ -1,0 +1,132 @@
+@media (max-width: 1919px) and (min-width: 1200px) {
+  .user-profile {
+    margin-right: -8px;
+}
+  .header{
+    border:none
+  }
+  .logo{
+    border:none
+  }
+  .logo__img {
+    width: 42px;
+    height: 34px;
+}
+  .header-nav__list {
+    margin-left: 80px;
+  }
+  .error {
+    width: 651px;
+    margin-top: 72px;
+  }
+  .error__heading-wrapper {
+    height: 151px;
+    background-size: 238px;
+  }
+  .error__heading {
+    font-size: 28px;
+    line-height: 41px;
+  }
+  .error__paragraph{
+    margin-top: 6px;
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .error__button-link {
+    margin-top: 40px;
+  }
+  .error__button {
+    width: 261px;
+    height: 51px;
+  }
+  .cute-pandas-video{
+    width: 832px;
+  }
+  .cute-pandas-video iframe {
+    width: 832px;
+    height: 469px;
+  }
+  .go-to-support {
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 640px) {
+  .error{
+    width: 578px;
+    margin: 171px auto 70px;
+  }
+  .error__heading{
+    font-size: 26px;
+    line-height: 38px;
+  }
+  .error__heading-wrapper {
+    height: 135px;
+    background-size: 183px;
+  }
+  .error__button{
+    width: 261px;
+  }
+  .error__button-link{
+    margin-top: 35px;
+  }
+  .cute-pandas-video{
+    width: 600px;
+    margin: 0 auto;
+  }
+  .cute-pandas-video iframe {
+    width: 600px;
+    height: 338px;
+  }
+  .go-to-support {
+    margin: 40px auto 61px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+@media (max-width: 639px) and (min-width: 320px) {
+  .header-nav__burger{
+    top: 19px;
+    right: 9px;
+  }
+  .error{
+    width: 300px;
+    margin: 51px auto 40px;
+  }
+  .error__heading{
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .error__heading-wrapper {
+    height: 152px;
+    background-size: 194px;
+    background-position: center 54px;
+  }
+  .error__paragraph{
+    margin-top: 9px;
+    width: 232px;
+  }
+  .error__button{
+    width: 244px;
+    height: 49px;
+  }
+  .error__button-link{
+    margin-top: 25px;
+  }
+  .cute-pandas-video{
+    width: 300px;
+    margin: 0 auto;
+  }
+  .cute-pandas-video iframe {
+    width: 300px;
+    height: 169px;
+  }
+  .go-to-support {
+    width: 263px;
+    margin: 25px auto 48px;
+    font-size: 12px;
+    line-height: 19px;
+    margin: 30px 0 50px
+  }
+}

@@ -1,0 +1,344 @@
+@media (max-width: 1919px) and (min-width: 1200px) {
+  .side-bar__list {
+    height: 415px;
+    margin: 0;
+  }
+  .side-bar__list-item {
+    width: 45px;
+    height: 45px;
+    background-size: auto;
+    background-size: 60%;
+  }
+  .side-bar__list-scroll {
+    width: 66px;
+    height: 66px;
+  }
+  .translation {
+    margin-left: 144px;
+    margin-right: 0;
+  }
+  .translation-video iframe {
+    width: 545px;
+    height: 307px;
+  }
+  .translation__name {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .translation__img {
+    margin-right: 31px;
+    width: 55px;
+    height: 55px;
+  }
+  .translation-info {
+    margin-bottom: 25px;
+    padding: 0;
+    border: none;
+  }
+  .translation-donate {
+    width: 343px;
+  }
+  .translation-donate__heading {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0;
+  }
+  .translation-donate__paragraph {
+    margin: 15px 0;
+  }
+  .translation__watchers {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .translation__watchers::before {
+    width: 13px;
+    height: 13px;
+    top: 2px;
+  }
+  .translation-donate__button {
+    width: 211px;
+    height: 59px;
+  }
+  .other-cams {
+    margin:46px 0 0 144px;
+  }
+  .other-cams__heading {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .other-cams__heading::after {
+    width: 13px;
+    height: 9px;
+    left: 10px;
+    bottom: 2px;
+  }
+  .other-cams__list {
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: 144px;
+    margin: 30px 0 40px;
+  }
+  .other-cams__list-elem{
+    margin-right: 30px;
+  }
+  .other-cams__list-elem-video {
+    width: 257px;
+  }
+  .other-cams__buttons {
+    width: 132px;
+  }
+  .other-cams__button-left,
+  .other-cams__button-right {
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .facts {
+    margin: 80px 0px 42px 144px;
+  }
+  .facts__heading {
+    font-size: 36px;
+    line-height: 52px;
+  }
+  .facts__list-elem-head-button {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 640px) {
+  .animal-menu{
+    display: flex;
+    top:auto;
+  }
+  .translation {
+    margin: 134px 31px 50px 17px;
+    flex-direction: column-reverse;
+  }
+  .translation-info {
+    width: 390px;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+  }
+  .translation__img {
+    width: 54px;
+    height: 54px;
+  }
+  .translation__name {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .translation__watchers {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .translation__watchers::before {
+    width: 13px;
+    height: 13px;
+    top: 2px;
+  }
+  .translation-donate {
+    display: none;
+  }
+  .translation-donate-copy {
+    width: 370px;
+    display: block;
+    margin: 50px 0 20px;
+  }
+  .translation-donate__heading {
+    width: 338px;
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .translation-donate__paragraph{
+    margin: 20px 0 30px;
+  }
+  .translation-donate__button {
+    width: 181px;
+    height: 51px;
+  }
+  .translation-video iframe {
+    width: 390px;
+    height: 217px;
+  }
+  .translation-wrapper .container {
+    display: flex;
+    flex-direction: row;
+  }
+  .other-cams {
+    margin: 162px 0 0;
+  }
+  .other-cams__heading {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .other-cams__heading::after {
+    width: 11px;
+    height: 7px;
+    left: 8px;
+    bottom: 6px;
+  }
+  .other-cams__list {
+    margin: 16px 0 0 0;
+    flex-direction: column;
+  }
+  .other-cams__list-elem {
+    width: 180px;
+    margin-right: 0;
+    margin-bottom: 12px;
+  }
+  .other-cams__list-elem-video {
+    width: 180px;
+  }
+  .other-cams__list-elem-info-viewers {
+    margin: 10px 0px;
+  }
+  .other-cams__buttons {
+    display: none;
+  }
+  .facts{
+    margin: 20px 20px 40px;
+  }
+  .facts__list-elem-head{
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .facts__list-elem-head-button{
+    font-size: 30px;
+  }
+  .pay-and-feed {
+    margin: 58px 0px 118px;
+    align-items: center;
+  }
+}
+
+@media (max-width: 639px) and (min-width: 320px) {
+  .animal-menu{
+    position: fixed;
+    left: 50%;
+    bottom: 13px;
+    height: 75px;
+    transform: translate(-50%, 55px);
+  }
+  .translation {
+    margin: 92px 10px 50px;
+    flex-direction: column-reverse;
+  }
+  .translation-info {
+    width: 300px;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+  }
+  .translation__img {
+    margin-right: 15px;
+    width: 43px;
+    height: 43px;
+  }
+  .translation__name {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .translation__watchers {
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .translation__watchers::before {
+    width: 13px;
+    height: 13px;
+    top: 3px;
+  }
+  .translation-donate {
+    display: none;
+  }
+  .translation-donate-copy {
+    width: 300px;
+    display: block;
+    margin: 50px 0 20px;
+  }
+  .translation-donate__heading {
+    width: 300px;
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .translation-donate__paragraph{
+    margin: 20px 0 30px;
+  }
+  .translation-donate__button {
+    width: 181px;
+    height: 51px;
+  }
+  .translation-video iframe {
+    width: 300px;
+    height: 168px;
+  }
+  .translation-wrapper .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .other-cams {
+    margin: 30px 10px 0;
+  }
+  .other-cams__heading {
+    font-size: 20px;
+    line-height: 29px;
+  }
+  .other-cams__heading::after {
+    width: 13px;
+    height: 9px;
+  }
+  .other-cams__list {
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: 80px;
+  }
+  .other-cams__list-elem {
+    width: 140px;
+    margin-right: 20px;
+  }
+  .other-cams__list-elem:nth-child(2n) {
+    margin-right: 0px;
+  }
+  .other-cams__list-elem-video {
+    width: 140px;
+  }
+  .other-cams__list-elem-info-viewers {
+    margin: 3px 0px;
+    padding-bottom: 3px;
+    font-size: 15px;
+    line-height: 18px;
+  }
+  .other-cams__buttons {
+    display: flex;
+    width: 132px;
+  }
+  .other-cams__button-left,
+  .other-cams__button-right{
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+  }
+  .facts{
+    margin: 40px 10px;
+  }
+  .facts__paragraph{
+    margin-top: 22px;
+  }
+  .facts__list {
+    margin-top: 35px;
+  }
+  .facts__paragraph{
+    width: 300px;
+  }
+  .facts__list-elem-head{
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .facts__list-elem-head-button{
+    font-size: 25px;
+  }
+  .pay-and-feed {
+    margin: 30px 0px 113px;
+  }
+}
